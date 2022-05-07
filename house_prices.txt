@@ -1,0 +1,133 @@
+house_prices\inference.py:8:1: E303 too many blank lines (3)
+house_prices\inference.py:10:1: E302 expected 2 blank lines, found 1
+house_prices\inference.py:13:80: E501 line too long (138 > 79 characters)
+house_prices\inference.py:14:80: E501 line too long (160 > 79 characters)
+house_prices\inference.py:18:18: W292 no newline at end of file
+house_prices\process.py:4:1: F401 'sklearn.compose.ColumnTransformer' imported but unused
+house_prices\process.py:15:1: E266 too many leading '#' for block comment
+house_prices\process.py:20:80: E501 line too long (100 > 79 characters)
+house_prices\process.py:26:80: E501 line too long (85 > 79 characters)
+house_prices\process.py:28:80: E501 line too long (83 > 79 characters)
+house_prices\process.py:29:20: E231 missing whitespace after ','
+house_prices\process.py:29:46: E231 missing whitespace after ','
+house_prices\process.py:33:1: E266 too many leading '#' for block comment
+house_prices\process.py:37:1: W293 blank line contains whitespace
+house_prices\process.py:45:10: E231 missing whitespace after ','
+house_prices\process.py:46:13: E231 missing whitespace after ','
+house_prices\process.py:46:39: E231 missing whitespace after ','
+house_prices\process.py:50:1: E265 block comment should start with '# '
+house_prices\process.py:51:48: E231 missing whitespace after ','
+house_prices\process.py:57:53: E231 missing whitespace after ','
+house_prices\process.py:62:16: E222 multiple spaces after operator
+house_prices\process.py:63:21: E231 missing whitespace after ','
+house_prices\process.py:63:33: E231 missing whitespace after ','
+house_prices\process.py:63:47: E231 missing whitespace after ','
+house_prices\process.py:64:24: E201 whitespace after '('
+house_prices\process.py:65:21: E128 continuation line under-indented for visual indent
+house_prices\process.py:67:1: W293 blank line contains whitespace
+house_prices\process.py:69:5: E303 too many blank lines (3)
+house_prices\process.py:71:80: E501 line too long (205 > 79 characters)
+house_prices\process.py:71:81: E231 missing whitespace after ','
+house_prices\process.py:71:92: E231 missing whitespace after ','
+house_prices\process.py:71:103: E231 missing whitespace after ','
+house_prices\process.py:71:115: E231 missing whitespace after ','
+house_prices\process.py:71:127: E231 missing whitespace after ','
+house_prices\process.py:71:138: E231 missing whitespace after ','
+house_prices\process.py:71:149: E231 missing whitespace after ','
+house_prices\process.py:71:164: E231 missing whitespace after ','
+house_prices\process.py:71:179: E231 missing whitespace after ','
+house_prices\process.py:71:194: E231 missing whitespace after ','
+house_prices\process.py:71:206: E203 whitespace before ','
+house_prices\process.py:72:5: E128 continuation line under-indented for visual indent
+house_prices\process.py:72:5: E231 missing whitespace after ','
+house_prices\process.py:72:18: E231 missing whitespace after ','
+house_prices\process.py:72:31: E231 missing whitespace after ','
+house_prices\process.py:72:45: E231 missing whitespace after ','
+house_prices\process.py:72:58: E231 missing whitespace after ','
+house_prices\process.py:72:73: E231 missing whitespace after ','
+house_prices\process.py:72:80: E501 line too long (129 > 79 characters)
+house_prices\process.py:72:86: E231 missing whitespace after ','
+house_prices\process.py:72:99: E231 missing whitespace after ','
+house_prices\process.py:72:112: E231 missing whitespace after ','
+house_prices\process.py:74:70: E231 missing whitespace after ','
+house_prices\process.py:74:80: E501 line too long (200 > 79 characters)
+house_prices\process.py:74:81: E231 missing whitespace after ','
+house_prices\process.py:74:95: E231 missing whitespace after ','
+house_prices\process.py:74:107: E231 missing whitespace after ','
+house_prices\process.py:74:122: E231 missing whitespace after ','
+house_prices\process.py:74:135: E231 missing whitespace after ','
+house_prices\process.py:74:148: E231 missing whitespace after ','
+house_prices\process.py:74:161: E231 missing whitespace after ','
+house_prices\process.py:74:173: E231 missing whitespace after ','
+house_prices\process.py:74:187: E231 missing whitespace after ','
+house_prices\process.py:74:201: E203 whitespace before ','
+house_prices\process.py:75:5: E128 continuation line under-indented for visual indent
+house_prices\process.py:75:5: E231 missing whitespace after ','
+house_prices\process.py:75:18: E231 missing whitespace after ','
+house_prices\process.py:75:28: E231 missing whitespace after ','
+house_prices\process.py:75:41: E231 missing whitespace after ','
+house_prices\process.py:79:80: E501 line too long (91 > 79 characters)
+house_prices\process.py:83:21: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+house_prices\process.py:86:20: E231 missing whitespace after ','
+house_prices\process.py:86:37: E231 missing whitespace after ','
+house_prices\process.py:87:23: E712 comparison to True should be 'if cond is True:' or 'if cond:'
+house_prices\process.py:93:78: E231 missing whitespace after ','
+house_prices\process.py:93:80: E501 line too long (111 > 79 characters)
+house_prices\process.py:95:71: E231 missing whitespace after ','
+house_prices\process.py:96:1: W293 blank line contains whitespace
+house_prices\process.py:98:5: E303 too many blank lines (2)
+house_prices\process.py:99:75: E231 missing whitespace after ','
+house_prices\process.py:99:80: E501 line too long (83 > 79 characters)
+house_prices\process.py:101:22: E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+house_prices\process.py:102:64: E231 missing whitespace after ','
+house_prices\process.py:102:80: E501 line too long (85 > 79 characters)
+house_prices\process.py:108:17: E231 missing whitespace after ','
+house_prices\process.py:108:43: E231 missing whitespace after ','
+house_prices\process.py:109:24: E231 missing whitespace after ','
+house_prices\process.py:109:50: E231 missing whitespace after ','
+house_prices\process.py:119:80: E501 line too long (121 > 79 characters)
+house_prices\process.py:122:5: E303 too many blank lines (2)
+house_prices\process.py:122:60: E231 missing whitespace after ','
+house_prices\process.py:122:72: E231 missing whitespace after ','
+house_prices\process.py:122:80: E501 line too long (209 > 79 characters)
+house_prices\process.py:122:87: E231 missing whitespace after ','
+house_prices\process.py:122:100: E231 missing whitespace after ','
+house_prices\process.py:122:114: E231 missing whitespace after ','
+house_prices\process.py:122:125: E231 missing whitespace after ','
+house_prices\process.py:122:137: E231 missing whitespace after ','
+house_prices\process.py:122:148: E231 missing whitespace after ','
+house_prices\process.py:122:163: E231 missing whitespace after ','
+house_prices\process.py:122:177: E231 missing whitespace after ','
+house_prices\process.py:123:29: E251 unexpected spaces around keyword / parameter equals
+house_prices\process.py:123:56: E251 unexpected spaces around keyword / parameter equals
+house_prices\process.py:123:80: E501 line too long (81 > 79 characters)
+house_prices\process.py:124:29: E251 unexpected spaces around keyword / parameter equals
+house_prices\process.py:124:56: E251 unexpected spaces around keyword / parameter equals
+house_prices\process.py:124:80: E501 line too long (82 > 79 characters)
+house_prices\process.py:126:1: W293 blank line contains whitespace
+house_prices\process.py:127:1: W293 blank line contains whitespace
+house_prices\process.py:128:5: E303 too many blank lines (3)
+house_prices\process.py:132:1: W391 blank line at end of file
+house_prices\train.py:1:1: F401 'xmlrpc.client.boolean' imported but unused
+house_prices\train.py:16:28: E231 missing whitespace after ','
+house_prices\train.py:16:30: E231 missing whitespace after ','
+house_prices\train.py:18:5: E122 continuation line missing indentation or outdented
+house_prices\train.py:19:5: E122 continuation line missing indentation or outdented
+house_prices\train.py:20:6: E231 missing whitespace after ','
+house_prices\train.py:23:1: E302 expected 2 blank lines, found 1
+house_prices\train.py:23:80: E501 line too long (87 > 79 characters)
+house_prices\train.py:30:38: E251 unexpected spaces around keyword / parameter equals
+house_prices\train.py:32:6: E114 indentation is not a multiple of 4 (comment)
+house_prices\train.py:32:6: E116 unexpected indentation (comment)
+house_prices\train.py:33:72: E251 unexpected spaces around keyword / parameter equals
+house_prices\train.py:33:74: E251 unexpected spaces around keyword / parameter equals
+house_prices\train.py:33:80: E501 line too long (96 > 79 characters)
+house_prices\train.py:33:92: E251 unexpected spaces around keyword / parameter equals
+house_prices\train.py:33:94: E251 unexpected spaces around keyword / parameter equals
+house_prices\train.py:34:34: E231 missing whitespace after ','
+house_prices\train.py:36:80: E501 line too long (147 > 79 characters)
+house_prices\train.py:37:80: E501 line too long (165 > 79 characters)
+house_prices\train.py:39:80: E501 line too long (143 > 79 characters)
+house_prices\train.py:40:80: E501 line too long (160 > 79 characters)
+house_prices\train.py:43:26: E231 missing whitespace after ','
+house_prices\train.py:48:34: E231 missing whitespace after ','

@@ -5,3 +5,5 @@ pandas
 sklearn
 seaborn
 matplotlib
+flake8
+autopep8
